@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- +++ インポートデータ +++ -->
+
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Travel Times</title>
+	<link>https://www.www.www</link>
+	<description>旅に思いを馳せる</description>
+	<pubDate>Sun, 1 Jan 2023 07:00:00 +0000</pubDate>
+	<language>ja</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://www.www.www</wp:base_site_url>
+	<wp:base_blog_url>https://www.www.www</wp:base_blog_url>
+
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[moniker]]></wp:author_login><wp:author_email><![CDATA[moniker@web.mail]]></wp:author_email><wp:author_display_name><![CDATA[moniker]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+
+			<wp:term>
+		<wp:term_id>48</wp:term_id>
+		<wp:term_taxonomy><![CDATA[newscategory]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[event]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[イベント情報]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>47</wp:term_id>
+		<wp:term_taxonomy><![CDATA[newscategory]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[recommend]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[おすすめ情報]]></wp:term_name>
+	</wp:term>
+		<wp:term>
+		<wp:term_id>46</wp:term_id>
+		<wp:term_taxonomy><![CDATA[newscategory]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[press]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[プレスリリース]]></wp:term_name>
+	</wp:term>
+
+
+					<item>
+		<title><![CDATA[デザインリニューアルのお知らせ]]></title>
+		<link>https://www.www.www/news/design/</link>
+		<pubDate>Thu, 10 Nov 2022 08:36:26 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?post_type=news&#038;p=915</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>広報誌のデザインがリニューアルされました。手描きの暖かみを感じるデザインで、市内に古くから伝わる伝統産業や、担当記者の自己紹介や裏話、またこれからの展望などが掲載されています。是非ご覧ください。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>915</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-10 17:36:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-10 08:36:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-28 17:46:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-28 08:46:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[design]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[news]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="newscategory" nicename="press"><![CDATA[プレスリリース]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-09]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[クーポンの配布が始まります]]></title>
+		<link>https://www.www.www/news/coupon/</link>
+		<pubDate>Sat, 12 Nov 2022 08:42:29 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?post_type=news&#038;p=917</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>クーポンの配布が始まります。つきましては、事務局にて申込書を取り寄せて頂き、必要事項をご記入の上、参加料を添えて水曜日までに本協会事務局までお送り下さい。定員になり次第締切らせて頂きます。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>917</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-12 17:42:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-12 08:42:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-28 17:45:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-28 08:45:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[coupon]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[news]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="newscategory" nicename="recommend"><![CDATA[おすすめ情報]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-09]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[並木道ウォークの開催について]]></title>
+		<link>https://www.www.www/news/walk/</link>
+		<pubDate>Tue, 15 Nov 2022 08:44:16 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?post_type=news&#038;p=918</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>今年も、並木道ウォークを開催することになりました。今回は昼食はありませんので、昼食は各自ご持参願います。日程は予定のため、雨天・荒天等の場合は中止いたします。決行の場合は当ホームページでお知らせします。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>918</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-15 17:44:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-15 08:44:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-28 17:43:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-28 08:43:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[walk]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[news]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="newscategory" nicename="event"><![CDATA[イベント情報]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-09]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[移設工事に伴う営業時間変更のお知らせ]]></title>
+		<link>https://www.www.www/news/hours/</link>
+		<pubDate>Fri, 18 Nov 2022 08:45:46 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?post_type=news&#038;p=919</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>移設工事に伴い、営業時間が変わりますのでご注意ください。 工事は来週の木曜日から順次行っていきます。なお、夜営業は無くなります。 旧店舗での営業は本日24時までとなっております。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>919</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-18 17:45:46]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-18 08:45:46]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-28 17:42:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-28 08:42:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[hours]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[news]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="newscategory" nicename="press"><![CDATA[プレスリリース]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[平日限定のおすすめサービス]]></title>
+		<link>https://www.www.www/news/weekday/</link>
+		<pubDate>Thu, 24 Nov 2022 09:04:51 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?post_type=news&#038;p=920</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>旅先で利用できる平日限定のおすすめサービスをご紹介します。宿泊先での観光ルートや施設の営業時間等、様々なお店やスポットにご利用ください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>普段の旅行ではなかなか体験できないことをすることで、滞在時間も充実したものになるでしょう。友達同士やカップルでも楽しめます。ぜひ計画を立ててみてください。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>920</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-24 18:04:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-24 09:04:51]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-28 17:40:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-28 08:40:11]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[weekday]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[news]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="newscategory" nicename="event"><![CDATA[イベント情報]]></category>
+		<category domain="newscategory" nicename="recommend"><![CDATA[おすすめ情報]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-09]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[お問い合わせ窓口開設のお知らせ]]></title>
+		<link>https://www.www.www/news/contact/</link>
+		<pubDate>Wed, 30 Nov 2022 09:05:22 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?post_type=news&#038;p=921</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>お問い合わせ窓口開設のお知らせです。以前より窓口についてのお問い合わせを数多くいただいていましたが、この度問い合わせ窓口を開設しました。何かご不明な点等ございましたら、こちらよりご連絡ください。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>921</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-30 18:05:22]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-30 09:05:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-10 11:08:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-10 02:08:04]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[news]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="newscategory" nicename="press"><![CDATA[プレスリリース]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-12-09]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[イベント開催のお知らせ]]></title>
+		<link>https://www.www.www/news/travel/</link>
+		<pubDate>Fri, 09 Dec 2022 09:53:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?post_type=news&#038;p=922</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>旅をテーマにしたイベント『旅・タビ・たび』を開催します。毎年開催している世界的なアーティストを招いた旅の芸術と写真表現をテーマにしたイベントです。今回は午前と午後の２部構成となっています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>お車でお越しのお客様は、お近くのパーキングエリアをご利用ください。また、アートギャラリーの作品を所蔵する芸術写真美術館では、今年のイベント会場で撮影した写真によるインスタレーションを発表いたします。さまざまな旅を現代写真表現で表す写真家のグループと、フォトエッセイストたちによる写真展も開催されます。ぜひご一緒にお楽しみください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table><tbody><tr><td>日程</td><td>2023年４月１日、２日、３日</td></tr><tr><td>時間</td><td>午前の部：10時00分～11時30分<br>午後の部：14時00分～16時00分</td></tr><tr><td>場所</td><td>イベントスペース または オンライン</td></tr></tbody></table></figure>
+<!-- /wp:table -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>922</wp:post_id>
+		<wp:post_date><![CDATA[2022-12-09 18:53:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-12-09 09:53:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-09 20:49:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-09 11:49:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[travel]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[news]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="newscategory" nicename="event"><![CDATA[イベント情報]]></category>
+		<category domain="newscategory" nicename="press"><![CDATA[プレスリリース]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+
+				</channel>
+</rss>
+

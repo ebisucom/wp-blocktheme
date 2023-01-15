@@ -1,0 +1,10 @@
+{
+	"title": "Blue",
+	"styles": {
+		"color": {
+			"background": "#8ae7ed"
+		}
+	},
+	"version": 2,
+	"$schema": "https://schemas.wp.org/wp/6.1/theme.json"
+}

@@ -1,0 +1,1871 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!-- +++ インポートデータ +++ -->
+
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+
+<channel>
+	<title>Travel Times</title>
+	<link>https://www.www.www</link>
+	<description>旅に思いを馳せる</description>
+	<pubDate>Sun, 1 Jan 2023 07:00:00 +0000</pubDate>
+	<language>ja</language>
+	<wp:wxr_version>1.2</wp:wxr_version>
+	<wp:base_site_url>https://www.www.www</wp:base_site_url>
+	<wp:base_blog_url>https://www.www.www</wp:base_blog_url>
+
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[moniker]]></wp:author_login><wp:author_email><![CDATA[moniker@web.mail]]></wp:author_email><wp:author_display_name><![CDATA[moniker]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+
+		<wp:category>
+		<wp:term_id>7</wp:term_id>
+		<wp:category_nicename><![CDATA[asia]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[アジア]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>1</wp:term_id>
+		<wp:category_nicename><![CDATA[america]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[アメリカ]]></wp:cat_name>
+	</wp:category>
+		<wp:category>
+		<wp:term_id>3</wp:term_id>
+		<wp:category_nicename><![CDATA[europe]]></wp:category_nicename>
+		<wp:category_parent><![CDATA[]]></wp:category_parent>
+		<wp:cat_name><![CDATA[ヨーロッパ]]></wp:cat_name>
+	</wp:category>
+			<wp:tag>
+		<wp:term_id>23</wp:term_id>
+		<wp:tag_slug><![CDATA[park]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[公園]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>10</wp:term_id>
+		<wp:tag_slug><![CDATA[tropical]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[南国]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>11</wp:term_id>
+		<wp:tag_slug><![CDATA[night]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[夜景]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>12</wp:term_id>
+		<wp:tag_slug><![CDATA[stream]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[大河]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>13</wp:term_id>
+		<wp:tag_slug><![CDATA[architecture]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[建築]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>14</wp:term_id>
+		<wp:tag_slug><![CDATA[old-town]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[旧市街]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>15</wp:term_id>
+		<wp:tag_slug><![CDATA[fruit]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[果物]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>16</wp:term_id>
+		<wp:tag_slug><![CDATA[history]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[歴史]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>6</wp:term_id>
+		<wp:tag_slug><![CDATA[waterfront]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[水辺]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>5</wp:term_id>
+		<wp:tag_slug><![CDATA[sea]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[海]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>17</wp:term_id>
+		<wp:tag_slug><![CDATA[sky]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[空]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>18</wp:term_id>
+		<wp:tag_slug><![CDATA[nature]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[自然]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>19</wp:term_id>
+		<wp:tag_slug><![CDATA[street]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[街角]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>20</wp:term_id>
+		<wp:tag_slug><![CDATA[city]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[都会]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>21</wp:term_id>
+		<wp:tag_slug><![CDATA[meal]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[食事]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>22</wp:term_id>
+		<wp:tag_slug><![CDATA[skyscraper]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[高層ビル]]></wp:tag_name>
+	</wp:tag>
+
+
+					<item>
+		<title><![CDATA[About]]></title>
+		<link>https://www.www.www/about/</link>
+		<pubDate>Tue, 27 Sep 2022 04:51:32 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?page_id=22</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading {"textAlign":"center"} -->
+<h2 class="has-text-align-center">旅のブログ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Travel Timesでは旅先から届いた記事を中心に、旅に関する情報を幅広くご紹介しています。どこの国で何をしたらいいか分からないときや、旅の途中で迷ったとき、現地に近い情報が必要なときなどには、Timesで旅のプランを立ててみてください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"linkTo":"none","align":"wide"} -->
+<figure class="wp-block-gallery alignwide has-nested-images columns-default is-cropped"><!-- wp:image {"id":17,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/photo01-720x1024.jpg" alt="" class="wp-image-17"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":14,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/photo02-720x1024.jpg" alt="" class="wp-image-14"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":15,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/photo03-720x1024.jpg" alt="" class="wp-image-15"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:heading {"textAlign":"center","level":3} -->
+<h3 class="has-text-align-center">旅の計画</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>旅を計画するときはフライトスケジュールを旅程に追加して考えると、旅行の詳細について興味深く新鮮な視点が見えてきます。それに基づいて旅程をカスタマイズすることで、自分で計画を立てるよりもずっと楽しく、時間を節約できるからです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>一度にたくさんの場所を巡るのも楽しいのですが、一箇所にロングステイしてみるのもおすすめです。住んでみないとわからない・見れない・感じられない、現地ローカルだからこそ知ることができる魅力にふれることができます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:cover {"url":"https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/travel-map.jpg","id":16,"dimRatio":50,"align":"full"} -->
+<div class="wp-block-cover alignfull"><span aria-hidden="true" class="wp-block-cover__background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-16" alt="" src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/travel-map.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"タイトルを入力...","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">身近な旅から遠くの旅まで<br>ここから、いつでも、どこへでも</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">旅を計画する</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>22</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-27 13:51:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-27 04:51:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-29 15:48:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-29 06:48:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+
+					<item>
+		<title><![CDATA[公園でのんびり]]></title>
+		<link>https://www.www.www/park/</link>
+		<pubDate>Wed, 20 Jul 2022 06:55:54 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=161</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>どこの街に行っても、大抵は大きな公園が整備されています。そこで過ごす人々を見ていると、街ごとにいろいろな雰囲気があるものの、やっぱりいいなと思ってしまいます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>そしてこれです! この町ではビールを飲みながら、ベンチで読書も気持ちいい。そんな過ごし方をする人がたくさんいます。本当にいいところです。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>161</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-20 15:55:54]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-20 06:55:54]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-28 22:53:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-28 13:53:54]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[park]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="asia"><![CDATA[アジア]]></category>
+		<category domain="post_tag" nicename="park"><![CDATA[公園]]></category>
+		<category domain="post_tag" nicename="nature"><![CDATA[自然]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[145]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-09-30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Chapter 4 のカスタマイズ結果]]></title>
+		<link>https://www.www.www/?p=197</link>
+		<pubDate>Mon, 26 Sep 2022 16:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=197</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>人は海とともに歴史を紡いできました。<a href="http://example.com">エーゲ海に位置するこの街</a>でも、そんな歴史の佇まいを感じることができます。夏真っ盛りという時期でもカラッとした空気で、爽やかです。風がよく通り、日陰に入ると気持ちよい心地に包まれます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>白と青に彩られた日々</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>街中の風景は白と青のコントラストが印象的でとてもきれいです。傾斜地に広がる街は美しいお洒落な街並みが特徴的で、非常に洗練されています。バスに乗る前に、ちょっと涼みたくて立ち寄った店では、美味しいシーフードバーガーを楽しむことができました。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"wide","id":9,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image alignwide size-large"><img src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront-white-1024x467.jpg" alt="" class="wp-image-9"/><figcaption class="wp-element-caption">豊かな水辺を中心に造られた街</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>細い坂道を上ると青い屋根が印象的な教会が見えてきます。教会前のレストランで食事をしたり、古い民家を改造したお洒落なカフェで時間を過ごすのも楽しいです。ここは近隣の海の中でも歴史の古い地方なので、豊かな自然の中に今も繁栄する街があり、海や山でのアクティビティもあります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>街中の風景</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>暑くなる昼日中は人影も少なく、静かに時間が過ぎていきます。小さな路地裏や階段がたくさんあり、散策にはもってこいです。鮮やかな色の草花があちこちに植えられ、白と青のコントラストの中に彩りを添えています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:cover {"url":"https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/decoration.png","id":10,"dimRatio":0,"focalPoint":{"x":0.74,"y":1},"isDark":false,"align":"full"} -->
+<div class="wp-block-cover alignfull is-light"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-0 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-10" alt="" src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/decoration.png" style="object-position:74% 100%" data-object-fit="cover" data-object-position="74% 100%"/><div class="wp-block-cover__inner-container"><!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide"><!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"bottom"} -->
+<div class="wp-block-column is-vertically-aligned-bottom"><!-- wp:image {"id":12,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront-blue-1024x557.jpg" alt="" class="wp-image-12"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":13,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront-cat-1024x574.jpg" alt="" class="wp-image-13"/><figcaption class="wp-element-caption">昼どきの街並み</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|80"}}}} -->
+<div class="wp-block-column" style="padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:image {"id":8,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront-flower-847x1024.jpg" alt="" class="wp-image-8"/><figcaption class="wp-element-caption">路地裏の日常</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"10%"} -->
+<div class="wp-block-column" style="flex-basis:10%"></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:paragraph -->
+<p>ゆったりと歩いていると、街角でのんびりしていた猫が出迎えてくれました。海辺の街には人懐っこい猫たちがたくさんいます。そんな猫たちや歴史と触れ合えるのも、海とともに歩んできた街ならではの楽しみです。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>197</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-27 01:00:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-26 16:00:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-08 00:27:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-07 15:27:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[waterfront-customize]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="asia"><![CDATA[アジア]]></category>
+		<category domain="category" nicename="europe"><![CDATA[ヨーロッパ]]></category>
+		<category domain="post_tag" nicename="history"><![CDATA[歴史]]></category>
+		<category domain="post_tag" nicename="waterfront"><![CDATA[水辺]]></category>
+		<category domain="post_tag" nicename="sea"><![CDATA[海]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Chapter 4 のカスタマイズ結果]]></title>
+		<link>https://www.www.www/?page_id=263</link>
+		<pubDate>Fri, 11 Nov 2022 00:52:58 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?page_id=263</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:heading {"textAlign":"center","align":"wide","className":"is-style-decoration-line"} -->
+<h2 class="alignwide has-text-align-center is-style-decoration-line">旅のブログ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Travel Timesでは旅先から届いた記事を中心に、旅に関する情報を幅広くご紹介しています。どこの国で何をしたらいいか分からないときや、旅の途中で迷ったとき、現地に近い情報が必要なときなどには、Timesで旅のプランを立ててみてください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"linkTo":"none","align":"wide"} -->
+<figure class="wp-block-gallery alignwide has-nested-images columns-default is-cropped"><!-- wp:image {"id":17,"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topLeft":"20px"}}}} -->
+<figure class="wp-block-image size-large has-custom-border"><img src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/photo01-720x1024.jpg" alt="" class="wp-image-17" style="border-top-left-radius:20px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":14,"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topLeft":"20px"}}}} -->
+<figure class="wp-block-image size-large has-custom-border"><img src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/photo02-720x1024.jpg" alt="" class="wp-image-14" style="border-top-left-radius:20px"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":15,"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topLeft":"20px"}}}} -->
+<figure class="wp-block-image size-large has-custom-border"><img src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/photo03-720x1024.jpg" alt="" class="wp-image-15" style="border-top-left-radius:20px"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"margin":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"},"blockGap":"0"},"border":{"width":"4px"}},"borderColor":"secondary","layout":{"type":"default"}} -->
+<div class="wp-block-group alignwide has-border-color has-secondary-border-color" style="border-width:4px;margin-top:var(--wp--preset--spacing--70);margin-bottom:var(--wp--preset--spacing--70)"><!-- wp:heading {"textAlign":"center","level":3,"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30"}}},"backgroundColor":"secondary","textColor":"base"} -->
+<h3 class="has-text-align-center has-base-color has-secondary-background-color has-text-color has-background" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">旅の計画</h3>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|60","right":"var:preset|spacing|50","bottom":"var:preset|spacing|60","left":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--60);padding-right:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--60);padding-left:var(--wp--preset--spacing--50)"><!-- wp:paragraph -->
+<p>旅を計画するときはフライトスケジュールを旅程に追加して考えると、旅行の詳細について興味深く新鮮な視点が見えてきます。それに基づいて旅程をカスタマイズすることで、自分で計画を立てるよりもずっと楽しく、時間を節約できるからです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>一度にたくさんの場所を巡るのも楽しいのですが、一箇所にロングステイしてみるのもおすすめです。住んでみないとわからない・見れない・感じられない、現地ローカルだからこそ知ることができる魅力にふれることができます。</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:cover {"url":"https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/travel-map.jpg","id":16,"dimRatio":80,"overlayColor":"secondary","align":"full"} -->
+<div class="wp-block-cover alignfull"><span aria-hidden="true" class="wp-block-cover__background has-secondary-background-color has-background-dim-80 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-16" alt="" src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/travel-map.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"タイトルを入力...","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size">身近な旅から遠くの旅まで<br>ここから、いつでも、どこへでも</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">旅を計画する</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div></div>
+<!-- /wp:cover -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>263</wp:post_id>
+		<wp:post_date><![CDATA[2022-11-11 09:52:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-11-11 00:52:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-29 15:46:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-29 06:46:11]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[about-customize]]></wp:post_name>
+		<wp:status><![CDATA[draft]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+
+
+
+
+
+					<item>
+		<title><![CDATA[海と歴史の佇まい]]></title>
+		<link>https://www.www.www/waterfront/</link>
+		<pubDate>Thu, 20 Oct 2022 04:45:42 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=18</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>人は海とともに歴史を紡いできました。<a href="http://example.com">エーゲ海に位置するこの街</a>でも、そんな歴史の佇まいを感じることができます。夏真っ盛りという時期でもカラッとした空気で、爽やかです。風がよく通り、日陰に入ると気持ちよい心地に包まれます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>白と青に彩られた日々</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>街中の風景は白と青のコントラストが印象的でとてもきれいです。傾斜地に広がる街は美しいお洒落な街並みが特徴的で、非常に洗練されています。バスに乗る前に、ちょっと涼みたくて立ち寄った店では、美味しいシーフードバーガーを楽しむことができました。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"wide","id":9,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image alignwide size-large"><img src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront-white-1024x467.jpg" alt="" class="wp-image-9"/><figcaption class="wp-element-caption">豊かな水辺を中心に造られた街</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>細い坂道を上ると青い屋根が印象的な教会が見えてきます。教会前のレストランで食事をしたり、古い民家を改造したお洒落なカフェで時間を過ごすのも楽しいです。ここは近隣の海の中でも歴史の古い地方なので、豊かな自然の中に今も繁栄する街があり、海や山でのアクティビティもあります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3>街中の風景</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>暑くなる昼日中は人影も少なく、静かに時間が過ぎていきます。小さな路地裏や階段がたくさんあり、散策にはもってこいです。鮮やかな色の草花があちこちに植えられ、白と青のコントラストの中に彩りを添えています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":12,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront-blue-1024x557.jpg" alt="" class="wp-image-12"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":13,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront-cat-1024x574.jpg" alt="" class="wp-image-13"/><figcaption class="wp-element-caption">昼どきの街並み</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":8,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront-flower-847x1024.jpg" alt="" class="wp-image-8"/><figcaption class="wp-element-caption">路地裏の日常</figcaption></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph -->
+<p>ゆったりと歩いていると、街角でのんびりしていた猫が出迎えてくれました。海辺の街には人懐っこい猫たちがたくさんいます。そんな猫たちや歴史と触れ合えるのも、海とともに歩んできた街ならではの楽しみです。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>18</wp:post_id>
+		<wp:post_date><![CDATA[2022-10-20 13:45:42]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-10-20 04:45:42]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-29 15:36:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-29 06:36:57]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[waterfront]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="asia"><![CDATA[アジア]]></category>
+		<category domain="category" nicename="europe"><![CDATA[ヨーロッパ]]></category>
+		<category domain="post_tag" nicename="history"><![CDATA[歴史]]></category>
+		<category domain="post_tag" nicename="waterfront"><![CDATA[水辺]]></category>
+		<category domain="post_tag" nicename="sea"><![CDATA[海]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[11]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-09-27]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[緑に囲まれた空間]]></title>
+		<link>https://www.www.www/green/</link>
+		<pubDate>Sun, 25 Sep 2022 10:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=83</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>中心部からバスに揺られて向かう先には、緑に囲まれた古い建物があります。そこは歴史ある図書館で、国内外を問わず、多くの文献を所蔵しています。図書館は誰でも入館することが出来、資料室は学生のものだけでなく、一般の方も閲覧したり、学ぶことができます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>豊富な蔵書に囲まれて</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>長い歴史を持つ図書館は、この国の教育活動のシンボルとして世界各国から訪れた人々に愛されています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>古い本が収蔵された倉庫の通路の所には、ちょっとした小窓があって、そこに板が付けられて、外から見えないようになっています。湿気対策か、と一瞬思ったが、どうもそれだけではないようです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>この小窓から中を覗いたことがある人には、すぐに分かります。そこには何本も壁に沿って柱が渡されているのです。たとえば、何冊か本が集められた本棚の奥にも。開かれた本の向こう側にも。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>開かれた古い本のページをめくるとき、その書架の中が見えてくるのかもしれません。多様な文化を採り入れることによって、新しい時代に適応させていくかのように。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>83</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-25 19:52:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-25 10:52:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-24 16:17:41]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-24 07:17:41]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[green]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="america"><![CDATA[アメリカ]]></category>
+		<category domain="post_tag" nicename="architecture"><![CDATA[建築]]></category>
+		<category domain="post_tag" nicename="history"><![CDATA[歴史]]></category>
+		<category domain="post_tag" nicename="nature"><![CDATA[自然]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[78]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-09-28]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[水辺に広がる旧市街]]></title>
+		<link>https://www.www.www/river/</link>
+		<pubDate>Fri, 23 Sep 2022 11:04:09 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=87</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>大河が流れるこの都市には、世界文化遺産の聖堂をはじめ、多くの教会や城跡が点在し、教会や城跡を見学する際に、訪れる市民の憩いの場となっています。何しろ、ここには約60万人もの人々が住んでいます。人々は各々の時間や温度を大事にしながら、日々を謳歌しているのです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>川沿いを歩いていくと、旧市街に出ます。ここには昔からの建物がたくさん残っています。昔からの商店街もあり、正面にあるのが聖母教会で、13世紀頃できた建物だそうです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>そして、毎年開催されるコンサートホールと音楽家の育成を目的としたアンサンブルでは、それぞれソリストや室内オーケストラのコンサートが開催されています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>自然溢れる美しい街並みが数多く存在しますので、新旧の文化と歴史を感じながらゆったりとした時間を過ごしてみてはいかがでしょうか。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>87</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-23 20:04:09]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-23 11:04:09]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-29 21:36:06]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-29 12:36:06]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[river]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="europe"><![CDATA[ヨーロッパ]]></category>
+		<category domain="post_tag" nicename="stream"><![CDATA[大河]]></category>
+		<category domain="post_tag" nicename="old-town"><![CDATA[旧市街]]></category>
+		<category domain="post_tag" nicename="waterfront"><![CDATA[水辺]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[80]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-09-28]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[港と夕日と美味しい食事]]></title>
+		<link>https://www.www.www/sunset/</link>
+		<pubDate>Tue, 20 Sep 2022 11:05:40 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=89</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>夕暮れ時、街は赤く染まります。特に港町では情緒も増します。ここは時間に余裕を持って、日が沈むのを楽しみたいポイントです。夕日に照らされた街並みが、赤く染まる夕焼けと共に一日を締めくくる見事な光景が広がります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>夜のライトアップされた景色は、昼間とは全く違った魅力を見せてくれます。この街ならではのロマンと、見所がいっぱいの夜の始まりです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>そして、港での楽しみと言えば、新鮮で美味しい魚。外海でとれる魚と、内海でとれる魚のどちらが美味しいのでしょうか。外海の魚はとっても大きく育ちます。また船の中が狭い為に、沢山の新鮮な魚が一度に沢山のり、そして美味しいのです。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>89</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-20 20:05:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-20 11:05:40]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-30 16:05:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-30 07:05:45]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[sunset]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="america"><![CDATA[アメリカ]]></category>
+		<category domain="post_tag" nicename="fruit"><![CDATA[果物]]></category>
+		<category domain="post_tag" nicename="sea"><![CDATA[海]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[81]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-09-28]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[赤の色合い]]></title>
+		<link>https://www.www.www/red/</link>
+		<pubDate>Fri, 16 Sep 2022 11:07:59 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=91</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>赤いものは街の中で目を引きます。その建物は窓や扉が赤色で、表町からは少しわかりにくい場所にありますが、入口は普通の1軒家のお店で、迷うことはないと思います。おしゃれで落ち着く雰囲気です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>キッチンや洗面台などもとても可愛らしく、まるで女の子のための宿のような空間です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ランチやディナーと違ったアットホームな雰囲気が好きで何度もお邪魔させていただいていますが、窓からは明るい海が広がり、夜には星空も綺麗に見えるため、こちらのカフェも大のお気に入りになっています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>またお風呂に入りながら、昼は海を見ながら、夜は波の音を聞きながらのお酒も最高ですよ。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>91</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-16 20:07:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-16 11:07:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-29 21:35:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-29 12:35:38]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[red]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="europe"><![CDATA[ヨーロッパ]]></category>
+		<category domain="post_tag" nicename="sea"><![CDATA[海]]></category>
+		<category domain="post_tag" nicename="street"><![CDATA[街角]]></category>
+		<category domain="post_tag" nicename="meal"><![CDATA[食事]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[79]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-09-28]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[発展する都市の力強さと賑わい]]></title>
+		<link>https://www.www.www/city/</link>
+		<pubDate>Mon, 12 Sep 2022 11:08:33 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=93</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>発展する街には力強さが溢れ、その背景には人々のエネルギーがあります。この街の変貌ぶりは、そう感じさせてくれます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>現在、「まちづくり」というキーワードが注目されていますが、その根底には、これからの未来を切り拓く「挑戦」というキーワードが詰まっています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>「食」「観光」「文化」「教育」「福祉」「防災・減災」の面から、地域活性化への課題や魅力と可能性を捉え、その解決に向けて果敢に挑戦していくことで、人も、街も、まちも活性化しているのです。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>93</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-12 20:08:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-12 11:08:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-29 21:41:23]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-29 12:41:23]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[city]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="asia"><![CDATA[アジア]]></category>
+		<category domain="post_tag" nicename="night"><![CDATA[夜景]]></category>
+		<category domain="post_tag" nicename="skyscraper"><![CDATA[高層ビル]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-09-28]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[77]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[イルミネーション]]></title>
+		<link>https://www.www.www/illumination/</link>
+		<pubDate>Thu, 08 Sep 2022 06:44:37 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=136</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>ここでは夜が近づくにつれ、カラフルなイルミネーションが灯り、より一層鮮やかな街となります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>町の中心部からも徒歩で、橋からもそれほど遠くありません。この広場にマーケットが開かれるとすぐ分かる、個性的な建物が目印です。この日のマーケットは、午後9時開場という、まさに最終日でありました。少し早めでしたが、飾りつけもほぼでき上がり、既に周辺は多くの人々で賑わっていました。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>136</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-08 15:44:37]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-08 06:44:37]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-10-18 04:33:47]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-10-17 19:33:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[illumination]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="asia"><![CDATA[アジア]]></category>
+		<category domain="post_tag" nicename="night"><![CDATA[夜景]]></category>
+		<category domain="post_tag" nicename="street"><![CDATA[街角]]></category>
+		<category domain="post_tag" nicename="city"><![CDATA[都会]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-09-30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[143]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[窓辺の彩り]]></title>
+		<link>https://www.www.www/window/</link>
+		<pubDate>Mon, 05 Sep 2022 06:46:44 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=147</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>静かな路地裏に入り込むとそこは厳かな空間になります。花の季節には窓辺に花が溢れます。また来よう。そう思いながら、それはいつも同じでした。また次の日からも、道端の路傍の花を楽しんだのです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>野山に咲き乱れる花々は、人を魅了します。お伽話や昔話の中で、花は愛され、畏れられました。その起源は定かではありませんが、神聖な存在として、広く人々に愛されたようです。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>147</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-05 15:46:44]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-05 06:46:44]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-28 22:40:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-28 13:40:12]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[window]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="europe"><![CDATA[ヨーロッパ]]></category>
+		<category domain="post_tag" nicename="architecture"><![CDATA[建築]]></category>
+		<category domain="post_tag" nicename="street"><![CDATA[街角]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-09-30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[146]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[花と路地と空]]></title>
+		<link>https://www.www.www/flower/</link>
+		<pubDate>Fri, 02 Sep 2022 06:47:58 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=149</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>花が咲き誇る道の先には青空が見えています。この道を進んでいくと、やがて広場が目の前に広がり、広い構内が広がっています。そこは今はバス停になっているようです。ただ、時刻表を見ないで来てしまうと、バス停を見落としてしまいそうな気がします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>左に入るとさらに大きな広場に出ます。そこから、左右に道があるのでどっちに行けばいいのだろうと思っていたら、路面に小さな街灯が立っていて、左の道を行くように描かれているので、その道を行くことにしました。直ぐに2度めの右折をして、しばらく行くと家々の並ぶ大通りに出るのです。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>149</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-02 15:47:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-02 06:47:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-07 08:15:08]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-06 23:15:08]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[flower]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="europe"><![CDATA[ヨーロッパ]]></category>
+		<category domain="post_tag" nicename="old-town"><![CDATA[旧市街]]></category>
+		<category domain="post_tag" nicename="history"><![CDATA[歴史]]></category>
+		<category domain="post_tag" nicename="street"><![CDATA[街角]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-09-30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[142]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[マーケット探訪]]></title>
+		<link>https://www.www.www/market/</link>
+		<pubDate>Tue, 30 Aug 2022 06:49:49 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=151</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>今日は朝からマーケットを見に行きます。各地から届いた新鮮な食べ物がたくさんあるからです。たくさんのスパイスも見どころです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>個人から大きな商店まで、そこにはたくさんの出店があります。まさに街を巻き込んだみんなのマーケットです。「このブースの人がどんな仕事をしているのか」「楽しそうだから会いに行ってみよう」、そんな感じで老若男女が参加しています。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>151</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-30 15:49:49]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-30 06:49:49]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-08 10:36:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-08 01:36:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[market]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="asia"><![CDATA[アジア]]></category>
+		<category domain="category" nicename="america"><![CDATA[アメリカ]]></category>
+		<category domain="post_tag" nicename="history"><![CDATA[歴史]]></category>
+		<category domain="post_tag" nicename="city"><![CDATA[都会]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[144]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-09-30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[光あふれる夜の街]]></title>
+		<link>https://www.www.www/city-lights/</link>
+		<pubDate>Thu, 25 Aug 2022 06:51:02 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=153</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>このシーズンは街がきらめいて、色々なイベントが開催され、楽しめる時期です。道ゆく人々の会話にも色気があります。仕事の出張を兼ねて街歩きに繰り出す人も多いいようです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>ビジネスパーソン、ファミリーにカップル。たくさんの人たちで連日盛況を博しています。誰もが過ごしやすい環境になっているのが大きいのでしょう。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>153</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-25 15:51:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-25 06:51:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-28 22:48:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-28 13:48:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[city-lights]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="asia"><![CDATA[アジア]]></category>
+		<category domain="post_tag" nicename="tropical"><![CDATA[南国]]></category>
+		<category domain="post_tag" nicename="night"><![CDATA[夜景]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[140]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-09-30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[アルペンの山の中にて]]></title>
+		<link>https://www.www.www/alpine/</link>
+		<pubDate>Thu, 18 Aug 2022 06:51:35 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=155</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>山々に囲まれたアルペンのロッジ。まわりにあるのは自然だけ。アウトドアライフを満喫するのにピッタリの宿です。絶景を楽しみながら、のんびりするもよし、散策するもよし。自由に楽しめます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>おまけに、静かで落ち着くはずが、野生の鹿が集まってきてビックリなんてことも。夜になれば、テラスやデッキは夜はキャンドルが灯る幻想的な雰囲気へと様変わりします。明かりを消して、夜の星空を見るのもおすすめです。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>155</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-18 15:51:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-18 06:51:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-12-08 10:38:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-12-08 01:38:49]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[alpine]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="america"><![CDATA[アメリカ]]></category>
+		<category domain="category" nicename="europe"><![CDATA[ヨーロッパ]]></category>
+		<category domain="post_tag" nicename="history"><![CDATA[歴史]]></category>
+		<category domain="post_tag" nicename="nature"><![CDATA[自然]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-09-30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[138]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[時間を知る方法]]></title>
+		<link>https://www.www.www/clock/</link>
+		<pubDate>Fri, 05 Aug 2022 06:52:45 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=157</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>街の中で時間を知るにはどうしているでしょう。今ではスマートフォンでいつでもすぐに時間がわかります。ひと昔前なら、みんな腕時計をしていました。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>もっと昔ならどうでしょう。大きな街には大きな時計を持つ建物があるものです。それは時計台と呼ばれ、一定の時間ごとに音で時間を知らせてくれます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>この水辺の街でも厳かな鐘の音が、今が何時であるかを知らせてくれます。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>157</wp:post_id>
+		<wp:post_date><![CDATA[2022-08-05 15:52:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-08-05 06:52:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-10 05:31:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-09 20:31:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[clock]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="europe"><![CDATA[ヨーロッパ]]></category>
+		<category domain="post_tag" nicename="stream"><![CDATA[大河]]></category>
+		<category domain="post_tag" nicename="history"><![CDATA[歴史]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-09-30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[141]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[大きな橋の役割]]></title>
+		<link>https://www.www.www/bridge/</link>
+		<pubDate>Thu, 28 Jul 2022 06:55:05 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://www.www.www/?p=159</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>大きな橋は人々をつなぎ、街をつなぎ、生きているのだという当たり前のことを改めて感じさせてくれます。そして、この橋は地域の人たちが協力し合ってつくったことがよくわかります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>あまりに大きな橋の場合、自分とは関係がないように感じることもあります。けれども、近くに行ってみると、意外と身近なものだったりするのです。歩いて渡る歩道が用意されていたり、水辺に降りていけるルートが用意されていたり。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>地元の人々にとっては、格好の散歩コースであり、ジョギングコースであり、日常の大切な道になっています。</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>159</wp:post_id>
+		<wp:post_date><![CDATA[2022-07-28 15:55:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-07-28 06:55:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-11-10 05:26:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-11-09 20:26:12]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[bridge]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="america"><![CDATA[アメリカ]]></category>
+		<category domain="post_tag" nicename="night"><![CDATA[夜景]]></category>
+		<category domain="post_tag" nicename="stream"><![CDATA[大河]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[139]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022-09-30]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+
+		<item>
+		<title><![CDATA[waterfront-flower]]></title>
+		<link>https://www.www.www/waterfront-flower/</link>
+		<pubDate>Tue, 27 Sep 2022 04:42:33 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront-flower.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>8</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-27 13:42:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-27 04:42:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-27 13:42:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-27 04:42:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[waterfront-flower]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront-flower.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/waterfront-flower.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1059;s:6:"height";i:1280;s:4:"file";s:29:"2022/09/waterfront-flower.jpg";s:8:"filesize";i:580051;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:29:"waterfront-flower-248x300.jpg";s:5:"width";i:248;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24766;}s:5:"large";a:5:{s:4:"file";s:30:"waterfront-flower-847x1024.jpg";s:5:"width";i:847;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:225928;}s:9:"thumbnail";a:5:{s:4:"file";s:29:"waterfront-flower-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9484;}s:12:"medium_large";a:5:{s:4:"file";s:29:"waterfront-flower-768x928.jpg";s:5:"width";i:768;s:6:"height";i:928;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:189616;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[waterfront-white]]></title>
+		<link>https://www.www.www/waterfront-white/</link>
+		<pubDate>Tue, 27 Sep 2022 04:42:34 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront-white.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>9</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-27 13:42:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-27 04:42:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-27 13:42:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-27 04:42:34]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[waterfront-white]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront-white.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/waterfront-white.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:876;s:4:"file";s:28:"2022/09/waterfront-white.jpg";s:8:"filesize";i:405319;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:28:"waterfront-white-300x137.jpg";s:5:"width";i:300;s:6:"height";i:137;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13293;}s:5:"large";a:5:{s:4:"file";s:29:"waterfront-white-1024x467.jpg";s:5:"width";i:1024;s:6:"height";i:467;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49427;}s:9:"thumbnail";a:5:{s:4:"file";s:28:"waterfront-white-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10660;}s:12:"medium_large";a:5:{s:4:"file";s:28:"waterfront-white-768x350.jpg";s:5:"width";i:768;s:6:"height";i:350;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33210;}s:9:"1536x1536";a:5:{s:4:"file";s:29:"waterfront-white-1536x701.jpg";s:5:"width";i:1536;s:6:"height";i:701;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90460;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[decoration]]></title>
+		<link>https://www.www.www/decoration/</link>
+		<pubDate>Tue, 27 Sep 2022 04:42:34 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/decoration.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>10</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-27 13:42:34]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-27 04:42:34]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-27 13:42:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-27 04:42:34]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[decoration]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/decoration.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/decoration.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1920;s:4:"file";s:22:"2022/09/decoration.png";s:8:"filesize";i:35062;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:22:"decoration-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7731;}s:5:"large";a:5:{s:4:"file";s:24:"decoration-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:40938;}s:9:"thumbnail";a:5:{s:4:"file";s:22:"decoration-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2832;}s:12:"medium_large";a:5:{s:4:"file";s:22:"decoration-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:28229;}s:9:"1536x1536";a:5:{s:4:"file";s:24:"decoration-1536x1536.png";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:68159;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[waterfront]]></title>
+		<link>https://www.www.www/waterfront/</link>
+		<pubDate>Tue, 27 Sep 2022 04:42:35 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>11</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-27 13:42:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-27 04:42:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-27 13:42:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-27 04:42:35]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[waterfront]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/waterfront.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:760;s:4:"file";s:22:"2022/09/waterfront.jpg";s:8:"filesize";i:779499;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:22:"waterfront-300x119.jpg";s:5:"width";i:300;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18855;}s:5:"large";a:5:{s:4:"file";s:23:"waterfront-1024x405.jpg";s:5:"width";i:1024;s:6:"height";i:405;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:92116;}s:9:"thumbnail";a:5:{s:4:"file";s:22:"waterfront-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15295;}s:12:"medium_large";a:5:{s:4:"file";s:22:"waterfront-768x304.jpg";s:5:"width";i:768;s:6:"height";i:304;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59101;}s:9:"1536x1536";a:5:{s:4:"file";s:23:"waterfront-1536x608.jpg";s:5:"width";i:1536;s:6:"height";i:608;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:175990;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[waterfront-blue]]></title>
+		<link>https://www.www.www/waterfront-blue/</link>
+		<pubDate>Tue, 27 Sep 2022 04:42:36 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront-blue.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>12</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-27 13:42:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-27 04:42:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-27 13:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-27 04:42:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[waterfront-blue]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront-blue.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/waterfront-blue.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1045;s:4:"file";s:27:"2022/09/waterfront-blue.jpg";s:8:"filesize";i:512601;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:27:"waterfront-blue-300x163.jpg";s:5:"width";i:300;s:6:"height";i:163;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11270;}s:5:"large";a:5:{s:4:"file";s:28:"waterfront-blue-1024x557.jpg";s:5:"width";i:1024;s:6:"height";i:557;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:76438;}s:9:"thumbnail";a:5:{s:4:"file";s:27:"waterfront-blue-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5533;}s:12:"medium_large";a:5:{s:4:"file";s:27:"waterfront-blue-768x418.jpg";s:5:"width";i:768;s:6:"height";i:418;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47618;}s:9:"1536x1536";a:5:{s:4:"file";s:28:"waterfront-blue-1536x836.jpg";s:5:"width";i:1536;s:6:"height";i:836;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:154866;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[waterfront-cat]]></title>
+		<link>https://www.www.www/waterfront-cat/</link>
+		<pubDate>Tue, 27 Sep 2022 04:42:36 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront-cat.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>13</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-27 13:42:36]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-27 04:42:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-27 13:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-27 04:42:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[waterfront-cat]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/waterfront-cat.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/waterfront-cat.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1076;s:4:"file";s:26:"2022/09/waterfront-cat.jpg";s:8:"filesize";i:455728;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:26:"waterfront-cat-300x168.jpg";s:5:"width";i:300;s:6:"height";i:168;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12123;}s:5:"large";a:5:{s:4:"file";s:27:"waterfront-cat-1024x574.jpg";s:5:"width";i:1024;s:6:"height";i:574;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:81546;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"waterfront-cat-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6727;}s:12:"medium_large";a:5:{s:4:"file";s:26:"waterfront-cat-768x430.jpg";s:5:"width";i:768;s:6:"height";i:430;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50688;}s:9:"1536x1536";a:5:{s:4:"file";s:27:"waterfront-cat-1536x861.jpg";s:5:"width";i:1536;s:6:"height";i:861;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:167688;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[photo02]]></title>
+		<link>https://www.www.www/photo02/</link>
+		<pubDate>Tue, 27 Sep 2022 04:43:01 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/photo02.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>14</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-27 13:43:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-27 04:43:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-27 13:43:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-27 04:43:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[photo02]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/photo02.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/photo02.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:885;s:6:"height";i:1258;s:4:"file";s:19:"2022/09/photo02.jpg";s:8:"filesize";i:263629;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:19:"photo02-211x300.jpg";s:5:"width";i:211;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17837;}s:5:"large";a:5:{s:4:"file";s:20:"photo02-720x1024.jpg";s:5:"width";i:720;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:161042;}s:9:"thumbnail";a:5:{s:4:"file";s:19:"photo02-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8366;}s:12:"medium_large";a:5:{s:4:"file";s:20:"photo02-768x1092.jpg";s:5:"width";i:768;s:6:"height";i:1092;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:180710;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[photo03]]></title>
+		<link>https://www.www.www/photo03/</link>
+		<pubDate>Tue, 27 Sep 2022 04:43:01 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/photo03.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>15</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-27 13:43:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-27 04:43:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-27 13:43:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-27 04:43:01]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[photo03]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/photo03.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/photo03.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:885;s:6:"height";i:1258;s:4:"file";s:19:"2022/09/photo03.jpg";s:8:"filesize";i:99698;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:19:"photo03-211x300.jpg";s:5:"width";i:211;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10562;}s:5:"large";a:5:{s:4:"file";s:20:"photo03-720x1024.jpg";s:5:"width";i:720;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69037;}s:9:"thumbnail";a:5:{s:4:"file";s:19:"photo03-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5580;}s:12:"medium_large";a:5:{s:4:"file";s:20:"photo03-768x1092.jpg";s:5:"width";i:768;s:6:"height";i:1092;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:76411;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[travel-map]]></title>
+		<link>https://www.www.www/travel-map/</link>
+		<pubDate>Tue, 27 Sep 2022 04:43:02 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/travel-map.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>16</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-27 13:43:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-27 04:43:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-27 13:43:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-27 04:43:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[travel-map]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/travel-map.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/travel-map.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1918;s:6:"height";i:1036;s:4:"file";s:22:"2022/09/travel-map.jpg";s:8:"filesize";i:700699;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:22:"travel-map-300x162.jpg";s:5:"width";i:300;s:6:"height";i:162;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25842;}s:5:"large";a:5:{s:4:"file";s:23:"travel-map-1024x553.jpg";s:5:"width";i:1024;s:6:"height";i:553;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:215796;}s:9:"thumbnail";a:5:{s:4:"file";s:22:"travel-map-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17574;}s:12:"medium_large";a:5:{s:4:"file";s:22:"travel-map-768x415.jpg";s:5:"width";i:768;s:6:"height";i:415;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:118623;}s:9:"1536x1536";a:5:{s:4:"file";s:23:"travel-map-1536x830.jpg";s:5:"width";i:1536;s:6:"height";i:830;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:486495;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[photo01]]></title>
+		<link>https://www.www.www/photo01/</link>
+		<pubDate>Tue, 27 Sep 2022 04:43:02 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/photo01.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>17</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-27 13:43:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-27 04:43:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-27 13:43:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-27 04:43:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[photo01]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/photo01.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/photo01.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:885;s:6:"height";i:1258;s:4:"file";s:19:"2022/09/photo01.jpg";s:8:"filesize";i:173230;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:19:"photo01-211x300.jpg";s:5:"width";i:211;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15969;}s:5:"large";a:5:{s:4:"file";s:20:"photo01-720x1024.jpg";s:5:"width";i:720;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:114517;}s:9:"thumbnail";a:5:{s:4:"file";s:19:"photo01-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8027;}s:12:"medium_large";a:5:{s:4:"file";s:20:"photo01-768x1092.jpg";s:5:"width";i:768;s:6:"height";i:1092;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127863;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[city]]></title>
+		<link>https://www.www.www/city/</link>
+		<pubDate>Wed, 28 Sep 2022 10:43:29 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/city.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>77</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-28 19:43:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-28 10:43:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-28 19:43:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-28 10:43:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[city]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/city.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/city.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1053;s:4:"file";s:16:"2022/09/city.jpg";s:8:"filesize";i:364717;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:16:"city-300x165.jpg";s:5:"width";i:300;s:6:"height";i:165;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14422;}s:5:"large";a:5:{s:4:"file";s:17:"city-1024x562.jpg";s:5:"width";i:1024;s:6:"height";i:562;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:126919;}s:9:"thumbnail";a:5:{s:4:"file";s:16:"city-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7492;}s:12:"medium_large";a:5:{s:4:"file";s:16:"city-768x421.jpg";s:5:"width";i:768;s:6:"height";i:421;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:74567;}s:9:"1536x1536";a:5:{s:4:"file";s:17:"city-1536x842.jpg";s:5:"width";i:1536;s:6:"height";i:842;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:258681;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[green]]></title>
+		<link>https://www.www.www/green/</link>
+		<pubDate>Wed, 28 Sep 2022 10:43:30 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/green.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>78</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-28 19:43:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-28 10:43:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-28 19:43:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-28 10:43:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[green]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/green.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/green.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:760;s:4:"file";s:17:"2022/09/green.jpg";s:8:"filesize";i:580887;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:17:"green-300x119.jpg";s:5:"width";i:300;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18115;}s:5:"large";a:5:{s:4:"file";s:18:"green-1024x405.jpg";s:5:"width";i:1024;s:6:"height";i:405;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:171050;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"green-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12464;}s:12:"medium_large";a:5:{s:4:"file";s:17:"green-768x304.jpg";s:5:"width";i:768;s:6:"height";i:304;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:100411;}s:9:"1536x1536";a:5:{s:4:"file";s:18:"green-1536x608.jpg";s:5:"width";i:1536;s:6:"height";i:608;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:343882;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[red]]></title>
+		<link>https://www.www.www/red/</link>
+		<pubDate>Wed, 28 Sep 2022 10:43:31 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/red.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>79</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-28 19:43:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-28 10:43:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-28 19:43:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-28 10:43:31]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[red]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/red.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/red.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:760;s:4:"file";s:15:"2022/09/red.jpg";s:8:"filesize";i:347351;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:15:"red-300x119.jpg";s:5:"width";i:300;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13121;}s:5:"large";a:5:{s:4:"file";s:16:"red-1024x405.jpg";s:5:"width";i:1024;s:6:"height";i:405;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:108455;}s:9:"thumbnail";a:5:{s:4:"file";s:15:"red-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9163;}s:12:"medium_large";a:5:{s:4:"file";s:15:"red-768x304.jpg";s:5:"width";i:768;s:6:"height";i:304;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64889;}s:9:"1536x1536";a:5:{s:4:"file";s:16:"red-1536x608.jpg";s:5:"width";i:1536;s:6:"height";i:608;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:215842;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[river]]></title>
+		<link>https://www.www.www/river/</link>
+		<pubDate>Wed, 28 Sep 2022 10:43:31 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/river.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>80</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-28 19:43:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-28 10:43:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-28 19:43:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-28 10:43:31]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[river]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/river.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/river.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:760;s:4:"file";s:17:"2022/09/river.jpg";s:8:"filesize";i:287780;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:17:"river-300x119.jpg";s:5:"width";i:300;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13916;}s:5:"large";a:5:{s:4:"file";s:18:"river-1024x405.jpg";s:5:"width";i:1024;s:6:"height";i:405;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:102027;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"river-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8502;}s:12:"medium_large";a:5:{s:4:"file";s:17:"river-768x304.jpg";s:5:"width";i:768;s:6:"height";i:304;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63112;}s:9:"1536x1536";a:5:{s:4:"file";s:18:"river-1536x608.jpg";s:5:"width";i:1536;s:6:"height";i:608;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:194133;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[sunset]]></title>
+		<link>https://www.www.www/sunset/</link>
+		<pubDate>Wed, 28 Sep 2022 10:43:31 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/sunset.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>81</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-28 19:43:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-28 10:43:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-28 19:43:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-28 10:43:31]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sunset]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/sunset.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/sunset.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:760;s:4:"file";s:18:"2022/09/sunset.jpg";s:8:"filesize";i:132499;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:18:"sunset-300x119.jpg";s:5:"width";i:300;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8267;}s:5:"large";a:5:{s:4:"file";s:19:"sunset-1024x405.jpg";s:5:"width";i:1024;s:6:"height";i:405;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51221;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"sunset-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6067;}s:12:"medium_large";a:5:{s:4:"file";s:18:"sunset-768x304.jpg";s:5:"width";i:768;s:6:"height";i:304;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32452;}s:9:"1536x1536";a:5:{s:4:"file";s:19:"sunset-1536x608.jpg";s:5:"width";i:1536;s:6:"height";i:608;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95611;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[alpine]]></title>
+		<link>https://www.www.www/alpine/</link>
+		<pubDate>Fri, 30 Sep 2022 06:46:16 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/alpine.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>138</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-30 15:46:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-30 06:46:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-30 15:46:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-30 06:46:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[alpine]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/alpine.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/alpine.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:760;s:4:"file";s:18:"2022/09/alpine.jpg";s:8:"filesize";i:386070;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:18:"alpine-300x119.jpg";s:5:"width";i:300;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12460;}s:5:"large";a:5:{s:4:"file";s:19:"alpine-1024x405.jpg";s:5:"width";i:1024;s:6:"height";i:405;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:118722;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"alpine-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8037;}s:12:"medium_large";a:5:{s:4:"file";s:18:"alpine-768x304.jpg";s:5:"width";i:768;s:6:"height";i:304;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68312;}s:9:"1536x1536";a:5:{s:4:"file";s:19:"alpine-1536x608.jpg";s:5:"width";i:1536;s:6:"height";i:608;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:240169;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[bridge]]></title>
+		<link>https://www.www.www/bridge/</link>
+		<pubDate>Fri, 30 Sep 2022 06:46:17 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/bridge.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>139</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-30 15:46:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-30 06:46:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-30 15:46:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-30 06:46:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bridge]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/bridge.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/bridge.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:760;s:4:"file";s:18:"2022/09/bridge.jpg";s:8:"filesize";i:385228;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:18:"bridge-300x119.jpg";s:5:"width";i:300;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11766;}s:5:"large";a:5:{s:4:"file";s:19:"bridge-1024x405.jpg";s:5:"width";i:1024;s:6:"height";i:405;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:108356;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"bridge-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8936;}s:12:"medium_large";a:5:{s:4:"file";s:18:"bridge-768x304.jpg";s:5:"width";i:768;s:6:"height";i:304;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61051;}s:9:"1536x1536";a:5:{s:4:"file";s:19:"bridge-1536x608.jpg";s:5:"width";i:1536;s:6:"height";i:608;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:231356;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[city-lights]]></title>
+		<link>https://www.www.www/city-lights/</link>
+		<pubDate>Fri, 30 Sep 2022 06:46:17 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/city-lights.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>140</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-30 15:46:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-30 06:46:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-30 15:46:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-30 06:46:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[city-lights]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/city-lights.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/city-lights.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:760;s:4:"file";s:23:"2022/09/city-lights.jpg";s:8:"filesize";i:475707;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:23:"city-lights-300x119.jpg";s:5:"width";i:300;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16896;}s:5:"large";a:5:{s:4:"file";s:24:"city-lights-1024x405.jpg";s:5:"width";i:1024;s:6:"height";i:405;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:140675;}s:9:"thumbnail";a:5:{s:4:"file";s:23:"city-lights-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11191;}s:12:"medium_large";a:5:{s:4:"file";s:23:"city-lights-768x304.jpg";s:5:"width";i:768;s:6:"height";i:304;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83427;}s:9:"1536x1536";a:5:{s:4:"file";s:24:"city-lights-1536x608.jpg";s:5:"width";i:1536;s:6:"height";i:608;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:284221;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[clock]]></title>
+		<link>https://www.www.www/clock/</link>
+		<pubDate>Fri, 30 Sep 2022 06:46:18 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/clock.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>141</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-30 15:46:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-30 06:46:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-30 15:46:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-30 06:46:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[clock]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/clock.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/clock.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:760;s:4:"file";s:17:"2022/09/clock.jpg";s:8:"filesize";i:358116;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:17:"clock-300x119.jpg";s:5:"width";i:300;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13670;}s:5:"large";a:5:{s:4:"file";s:18:"clock-1024x405.jpg";s:5:"width";i:1024;s:6:"height";i:405;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:108237;}s:9:"thumbnail";a:5:{s:4:"file";s:17:"clock-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8529;}s:12:"medium_large";a:5:{s:4:"file";s:17:"clock-768x304.jpg";s:5:"width";i:768;s:6:"height";i:304;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64772;}s:9:"1536x1536";a:5:{s:4:"file";s:18:"clock-1536x608.jpg";s:5:"width";i:1536;s:6:"height";i:608;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:217603;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[flower]]></title>
+		<link>https://www.www.www/flower/</link>
+		<pubDate>Fri, 30 Sep 2022 06:46:18 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/flower.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>142</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-30 15:46:18]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-30 06:46:18]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-30 15:46:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-30 06:46:18]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[flower]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/flower.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/flower.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:760;s:4:"file";s:18:"2022/09/flower.jpg";s:8:"filesize";i:453751;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:18:"flower-300x119.jpg";s:5:"width";i:300;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15232;}s:5:"large";a:5:{s:4:"file";s:19:"flower-1024x405.jpg";s:5:"width";i:1024;s:6:"height";i:405;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:139883;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"flower-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11640;}s:12:"medium_large";a:5:{s:4:"file";s:18:"flower-768x304.jpg";s:5:"width";i:768;s:6:"height";i:304;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:81893;}s:9:"1536x1536";a:5:{s:4:"file";s:19:"flower-1536x608.jpg";s:5:"width";i:1536;s:6:"height";i:608;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:280537;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+
+					<item>
+		<title><![CDATA[illumination]]></title>
+		<link>https://www.www.www/illumination-2/</link>
+		<pubDate>Fri, 30 Sep 2022 06:46:19 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/illumination.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>143</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-30 15:46:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-30 06:46:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-30 15:46:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-30 06:46:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[illumination-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/illumination.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/illumination.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:760;s:4:"file";s:24:"2022/09/illumination.jpg";s:8:"filesize";i:669151;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:24:"illumination-300x119.jpg";s:5:"width";i:300;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16403;}s:5:"large";a:5:{s:4:"file";s:25:"illumination-1024x405.jpg";s:5:"width";i:1024;s:6:"height";i:405;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:192236;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"illumination-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11710;}s:12:"medium_large";a:5:{s:4:"file";s:24:"illumination-768x304.jpg";s:5:"width";i:768;s:6:"height";i:304;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:106182;}s:9:"1536x1536";a:5:{s:4:"file";s:25:"illumination-1536x608.jpg";s:5:"width";i:1536;s:6:"height";i:608;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:404532;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[market]]></title>
+		<link>https://www.www.www/market/</link>
+		<pubDate>Fri, 30 Sep 2022 06:46:19 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/market.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>144</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-30 15:46:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-30 06:46:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-30 15:46:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-30 06:46:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[market]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/market.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/market.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:760;s:4:"file";s:18:"2022/09/market.jpg";s:8:"filesize";i:424667;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:18:"market-300x119.jpg";s:5:"width";i:300;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18938;}s:5:"large";a:5:{s:4:"file";s:19:"market-1024x405.jpg";s:5:"width";i:1024;s:6:"height";i:405;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:152016;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"market-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11072;}s:12:"medium_large";a:5:{s:4:"file";s:18:"market-768x304.jpg";s:5:"width";i:768;s:6:"height";i:304;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:93631;}s:9:"1536x1536";a:5:{s:4:"file";s:19:"market-1536x608.jpg";s:5:"width";i:1536;s:6:"height";i:608;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:286697;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[park]]></title>
+		<link>https://www.www.www/park/</link>
+		<pubDate>Fri, 30 Sep 2022 06:46:20 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/park.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>145</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-30 15:46:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-30 06:46:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-30 15:46:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-30 06:46:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[park]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/park.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/park.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:760;s:4:"file";s:16:"2022/09/park.jpg";s:8:"filesize";i:479052;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:16:"park-300x119.jpg";s:5:"width";i:300;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21121;}s:5:"large";a:5:{s:4:"file";s:17:"park-1024x405.jpg";s:5:"width";i:1024;s:6:"height";i:405;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:172937;}s:9:"thumbnail";a:5:{s:4:"file";s:16:"park-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13785;}s:12:"medium_large";a:5:{s:4:"file";s:16:"park-768x304.jpg";s:5:"width";i:768;s:6:"height";i:304;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:106518;}s:9:"1536x1536";a:5:{s:4:"file";s:17:"park-1536x608.jpg";s:5:"width";i:1536;s:6:"height";i:608;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:326601;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[window]]></title>
+		<link>https://www.www.www/window/</link>
+		<pubDate>Fri, 30 Sep 2022 06:46:20 +0000</pubDate>
+		<dc:creator><![CDATA[moniker]]></dc:creator>
+		<guid isPermaLink="false">https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/window.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>146</wp:post_id>
+		<wp:post_date><![CDATA[2022-09-30 15:46:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2022-09-30 06:46:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2022-09-30 15:46:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2022-09-30 06:46:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[window]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://raw.githubusercontent.com/ebisucom/wp-blocktheme/main/images/window.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2022/09/window.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:760;s:4:"file";s:18:"2022/09/window.jpg";s:8:"filesize";i:384648;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:18:"window-300x119.jpg";s:5:"width";i:300;s:6:"height";i:119;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13158;}s:5:"large";a:5:{s:4:"file";s:19:"window-1024x405.jpg";s:5:"width";i:1024;s:6:"height";i:405;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:111790;}s:9:"thumbnail";a:5:{s:4:"file";s:18:"window-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8066;}s:12:"medium_large";a:5:{s:4:"file";s:18:"window-768x304.jpg";s:5:"width";i:768;s:6:"height";i:304;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65599;}s:9:"1536x1536";a:5:{s:4:"file";s:19:"window-1536x608.jpg";s:5:"width";i:1536;s:6:"height";i:608;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:229248;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+
+
+				</channel>
+</rss>

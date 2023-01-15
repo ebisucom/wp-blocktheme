@@ -1,0 +1,98 @@
+/*
+Theme Name: My Theme
+Theme URI: 
+Author: 
+Author URI: 
+Description: 
+Requires at least: 6.1
+Tested up to: 6.1
+Requires PHP: 7.0
+Version: 1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: 
+Text Domain: mytheme
+Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, wide-blocks
+*/
+
+/* 見出し： 丸付き飾り罫 */
+:is(h1, h2, h3, h4, h5, h6).is-style-decoration-line {
+  padding-bottom: 0.5em;
+  border: solid 12px transparent;
+  border-image: url(assets/images/line.svg) 12;
+}
+
+/* カテゴリー一覧： リストマークなし */
+.wp-block-categories.is-style-no-listmark {
+  list-style: none;
+  padding-left: 0;
+}
+
+/* 投稿日： 時計アイコン */
+.wp-block-post-date.is-style-clock-icon::before {
+  content: url(assets/images/clock-regular.svg);
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+  margin-right: 0.5em;
+  font-size: 1.25em;
+  opacity: 0.3;
+}
+
+/* 次の投稿： ラベル逆配置 */
+.wp-block-post-navigation-link.is-style-reverse {
+  display: flex;
+  flex-direction: row-reverse;
+  gap: 0.3em;
+}
+
+/* テンプレートパーツ： 上マージン削除 */
+.wp-block-template-part.is-style-rm-margin-top {
+  margin-top: 0;
+}
+
+/* 段落： スクロールダウン */
+p.is-style-scroll-down {
+  position: relative;
+  height: 144px;
+  border-right: solid 1px var(--wp--preset--color--dark-gray);
+  writing-mode: vertical-rl;
+}
+
+p.is-style-scroll-down::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: -7px;
+  width: 12px;
+  height: 12px;
+  border: solid 1px var(--wp--preset--color--dark-gray);
+  border-radius: 50%;
+  background-color: var(--wp--preset--color--primary);
+  animation: scroll 4s infinite;
+}
+
+@keyframes scroll {
+  0% {
+    top: 0%;
+    opacity: 0;
+  }
+  20% {
+    opacity: 1;
+  }
+  80% {
+    opacity: 1;
+  }
+  100% {
+    top: 100%;
+    opacity: 0;
+  }
+}
+
+/* カラム：モバイル逆順 */
+@media (max-width: 781px) {
+  .wp-block-columns.is-style-reverse {
+    flex-direction: column-reverse;
+  }
+}

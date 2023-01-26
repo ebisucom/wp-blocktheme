@@ -1,5 +1,7 @@
 # 作って学ぶ　WordPress ブロックテーマ
 
+![作って学ぶ　WordPress ブロックテーマ](https://repository-images.githubusercontent.com/581679683/be31976d-0791-40c3-a7ab-134ce4d8bee7)
+
 **ダウンロードデータ**
 
 本書で作成するWordPressの完成テーマ、使用する画像素材、インポート用のコンテンツデータなどを収録しています。詳しくは、本書を参照してください。
@@ -21,7 +23,7 @@
 フォルダ     | ファイル     | 内容
 ------------ | -------------| ---------------------
 import/      | contents.xml | Chapter 2（P.74）でインポートするコンテンツデータ
-　           | appendix.xml | Appendix（P.339）でインポートするコンテンツデータ
+import/      | appendix.xml | Appendix（P.339）でインポートするコンテンツデータ
 
 ※chapter7.xmlはChapter 7で作成する固定ページ（HomeとBlog）の完成データです。必要に応じて利用してください。
 
@@ -42,8 +44,8 @@ import/      | contents.xml | Chapter 2（P.74）でインポートするコン�
 フォルダ | テーマフォルダ    | 内容  
 -------- | ---------------- | ------------------------------------------
 theme/   | mytheme/         | 本書で作成するブロックテーマ
-         | custom-mytheme/  | Appendixで作成する子テーマ
-         | hybrid-mytheme/  | ハイブリッドテーマPDFで作成するテーマ
+theme/   | custom-mytheme/  | Appendixで作成する子テーマ
+theme/   | hybrid-mytheme/  | ハイブリッドテーマPDFで作成するテーマ
 
 
 
@@ -75,7 +77,7 @@ Figmaで作成したデザインデータです。Figmaにインポートして�
 フォルダ | ファイル＆フォルダ | 内容
 -------- | ------------------ | --------------------------------------------
 Figma/   | wp-blocktheme.fig  | Figmaのデザインデータ
-         | export/            | Figmaのデザインデータを画像として出力したもの
+Figma/   | export/            | Figmaのデザインデータを画像として出力したもの
 
 ### インポート手順
 

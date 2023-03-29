@@ -2,18 +2,23 @@
 
 ![作って学ぶ　WordPress ブロックテーマ](https://repository-images.githubusercontent.com/581679683/be31976d-0791-40c3-a7ab-134ce4d8bee7)
 
+---
+
+［2023年3月30日］WordPress 6.2 ではインターフェースまわりが強化・改善されています。変更点については次の記事を参照してください。
+
+- 「[WordPress 6.2 のエディターのインターフェースまわりの変更点](https://ebisu.com/note/wordpress-6-2-editor-interface/)」
+
+※最新の情報は著者NOTE（ https://ebisu.com/note/ ） や Twitter ( https://twitter.com/ebisucom ) で出していますので、参考にしてください。
+
+---
+
+
 **ダウンロードデータ**
 
 本書で作成するWordPressの完成テーマ、使用する画像素材、インポート用のコンテンツデータなどを収録しています。詳しくは、本書を参照してください。
 
 * [サポートサイト](https://book.mynavi.jp/supportsite/detail/9784839981877.html) 
 * [書籍情報](https://ebisu.com/wp-blocktheme/)
-
----
-
-※最新の情報は著者NOTE（ https://ebisu.com/note/ ） や Twitter ( https://twitter.com/ebisucom ) でも出していますので、参考にしてください。
-
----
 
 
 ## ■【インポートデータ】

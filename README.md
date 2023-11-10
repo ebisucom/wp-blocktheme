@@ -4,9 +4,13 @@
 
 ---
 
-［2023年3月30日］WordPress 6.2 ではインターフェースまわりが強化・改善されています。変更点については次の記事を参照してください。
+WordPress の変更点については次の記事を参照してください。
 
-- 「[WordPress 6.2 のエディターのインターフェースまわりの変更点](https://ebisu.com/note/wordpress-6-2-editor-interface/)」
+- [WordPress 6.2 のエディターのインターフェースまわりの変更点](https://ebisu.com/note/wordpress-6-2-editor-interface/)
+- [WordPress 6.3 で整備・強化されたパターンまわりの変更点](https://ebisu.com/note/wordpress-6-3-patterns/)
+- [WordPress 6.3 のエディターのインターフェースまわりの変更点](https://ebisu.com/note/wordpress-6-3-editor-interface/)
+- [WordPress 6.3 のグローバルスタイル関連の変更点](https://ebisu.com/note/wordpress-6-3-global-styles/)
+- [WordPress 6.4 と新しいデフォルトテーマ Twenty Twenty-Four](https://ebisu.com/note/wordpress-twenty-twenty-four/)
 
 ※最新の情報は著者NOTE（ https://ebisu.com/note/ ） や Twitter ( https://twitter.com/ebisucom ) で出していますので、参考にしてください。
 
